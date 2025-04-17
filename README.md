@@ -1,31 +1,56 @@
-<h2> Hey 👋 there! I'm sandhya </h2>
-<img  align="right" src="https://media.giphy.com/media/MD0svLSDeudszrNrp0/giphy.gif" width="500"/>
-
-<h3> 👨🏻‍💻 About Me </h3>
-
-- 🌱 &nbsp; I'm a beginner web developer from India.  
-- 🔭 &nbsp; Currently learning *HTML, **CSS, and **JavaScript*.  
-- 💻 &nbsp; Passionate about building cool and responsive web pages.  
-- 🚀 &nbsp; Love learning new tech and contributing to open-source projects.  
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; C++ | HTML5 | CSS3 | JavaScript  
-- 🌐 &nbsp; Visual Studio Code | GitHub  
-
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandhya1114&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=00FFFF&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ayan's GitHub Stats">
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayan7000&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/ayan7000/github-readme-stats)
-
-<h3> 🤝🏻 Connect with Me </h3>
+<h1 align="center">Hey there! I'm Sandhya 👋</h1>
 
 <p align="center">
-&nbsp; <a href="https://www.instagram.com/your_username/" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/sandhya-rana1114" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+  <em>Full Stack Developer | Tech Enthusiast | Lifelong Learner</em>
 </p>
 
-⭐ From [sandhya1114](https://github.com/sandhya1114)
+<img src="https://media.giphy.com/media/24QYkzrvSlfG3NZT0B/giphy.gif" align="right" width="400" />
+
+---
+
+### 🧑‍💻 About Me
+
+- 🔭 I'm a passionate full stack developer from India.
+- 🌱 Currently learning: *HTML, **CSS, **JavaScript*
+- 💡 Love building cool and responsive web pages.
+- 🤝 Always open to collaborating on interesting projects.
+- ✨ Learning new tech and contributing to open-source is my thing!
+
+---
+
+### 🛠 Tech Stack
+
+- *Languages:* Java, Python, C, C++, JavaScript, HTML5, CSS3
+- *Tools & Platforms:* VS Code, Git, GitHub, Linux
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandhya1114&show_icons=true&theme=tokyonight" alt="Sandhya's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhya1114&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sandhya1114&theme=tokyonight" alt="GitHub Streak" width="70%" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Made with ❤ by <strong>Sandhya</strong>
+</p>
