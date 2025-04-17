@@ -1,4 +1,4 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Sandhya%20🤠&text2=💖%20web%20developer%20&width=900&height=400)
+![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Sandhya%20🤠&text2=%20web%20developer%20&width=900&height=400)
 
 
 <img height="auto" src="https://komarev.com/ghpvc/?username=Sandhya1114&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
