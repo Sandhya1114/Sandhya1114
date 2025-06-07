@@ -29,7 +29,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sandhya1114&show_icons=true&theme=tokyonight" alt="Sandhya's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhya1114&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" hight="10vh" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhya1114&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" hight="5vh" />
 </p>
 
 <p align="center">
