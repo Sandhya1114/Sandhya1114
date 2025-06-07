@@ -4,7 +4,7 @@
   <em>Full Stack Developer | Tech Enthusiast | Lifelong Learner</em>
 </p>
 
-<img src="https://media.giphy.com/media/24QYkzrvSlfG3NZT0B/giphy.gif" align="right" width="350" />
+<img src="https://media.giphy.com/media/24QYkzrvSlfG3NZT0B/giphy.gif" align="right" width="450" />
 
 ---
 
