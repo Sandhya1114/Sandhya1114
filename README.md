@@ -23,9 +23,6 @@
 - *Languages:* Java, Python, C, C++, JavaScript, HTML5, CSS3
 - *Tools & Platforms:* VS Code, Git, GitHub, Linux
 
-<p align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com?user=Sandhya1114&theme=tokyonight](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)" alt="GitHub Streak" width="75%" />
-</p>
 ---
 
 ### 📈 GitHub Stats
