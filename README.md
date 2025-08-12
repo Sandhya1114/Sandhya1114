@@ -24,6 +24,13 @@
 - *Tools & Platforms:* VS Code, Git, GitHub, Linux
 
 ---
+### 🧰 Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,c,git,github,vscode,mysql,vite,nodejs,express,java,python" />
+</p>
+
+---
 
 ### 📈 GitHub Stats
 
