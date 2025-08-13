@@ -39,7 +39,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sandhya1114&show_icons=true&theme=tokyonight" alt="Sandhya's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhya1114&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" hight="5vh" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhya1114&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
 </p>
 
 <p align="center">
@@ -51,10 +51,10 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/sandhya-rana1114/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:sandhyarana07610761@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
