@@ -26,7 +26,6 @@
 - *Languages:* Java, Python, C, C++, JavaScript, HTML5, CSS3
 - *Tools & Platforms:* VS Code, Git, GitHub, Linux
 
----
 ### 🧰 Tools & Technologies
 
 <p align="left">
