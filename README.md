@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&&section=header&text=Sandhya%20Rana&fontSize=40&fontColor=DFD0B8" />
-</p>
+
 <h1 align="center">Hey there! I'm Sandhya 👋</h1>
 
 <p align="center">
