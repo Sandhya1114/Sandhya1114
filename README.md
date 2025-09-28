@@ -2,7 +2,7 @@
 <h1 align="center">Hey there! I'm Sandhya 👋</h1>
 
 <p align="center">
-  <em>Full Stack Developer | Tech Enthusiast | Lifelong Learner</em>
+  <em>Full Stack Developer | Tech Enthusiast | Lifelong Learner | Frontend </em>
 </p>
 
 <img src="https://media.giphy.com/media/24QYkzrvSlfG3NZT0B/giphy.gif" align="right" width="450" />
