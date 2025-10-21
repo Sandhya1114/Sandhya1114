@@ -45,7 +45,7 @@
 
 
 
-### 📫 Connect with Me
+### 📫 Connect with Me :)
 
 <p align="center">
   <a href="[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/sandhya-rana1114/)" target="_blank">
