@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there! I'm Sandhya 👋</h1>
+<h1 align="center">Hey there! I'm Sandhya Rana 👋</h1>
 
 <p align="center">
   <em>Full Stack Developer | Tech Enthusiast | Frontend Developer |Backend Developer</em>
