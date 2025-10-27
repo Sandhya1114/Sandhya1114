@@ -12,7 +12,7 @@
 ### 🧑‍💻 About Me
 
 - 🔭 I'm a passionate full stack developer from India.
-- 🌱 Currently learning: *HTML, **CSS, *JavaScript*,*TypeScript ,*ReactJS
+- 🌱 Currently learning: HTML, CSS, JavaScript, TypeScript , ReactJS
 - 💡 Love building cool and responsive web pages.
 - 🤝 Always open to collaborating on interesting projects.
 - ✨ Learning new tech and contributing to open-source is my thing!
