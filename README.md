@@ -2,7 +2,7 @@
 <h1 align="center">Hey there!  I'm Sandhya Rana👋</h1>
 
 <p align="center">
-  <em>Full Stack Developer | Tech Enthusiast | Frontend Developer | Backend Developer |React | C++ </em>
+  <em>Full Stack Developer | Tech Enthusiast | Frontend Developer | Backend Developer | React | C++ </em>
 </p>
 
 <img src="https://media.giphy.com/media/24QYkzrvSlfG3NZT0B/giphy.gif" align="right" width="450" />
