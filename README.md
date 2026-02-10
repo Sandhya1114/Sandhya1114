@@ -32,7 +32,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats :-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sandhya1114&show_icons=true&theme=tokyonight" alt="Sandhya's GitHub Stats" width="48%" />
