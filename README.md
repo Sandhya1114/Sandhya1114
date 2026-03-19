@@ -12,7 +12,7 @@
 ### 🧑‍💻 About Me
 
 - 🔭 I'm a passionate full Stack Developer from India
-- 🌱 Currently learning: HTML, CSS, JavaScript, ReactJS , Redux, NodeJS, Express, ReactQuery 
+- 🌱 Currently learning: HTML, CSS, JavaScript, ReactJS , Redux, NodeJS, Express, ReactQuery ,Supabase
 - 💡 Love building cool and responsive websites.
 - 🤝 Always open to collaborating on interesting projects and always take intiatative to learn :).
 - ✨ Learning new tech and contributing to open-source is my thing!
