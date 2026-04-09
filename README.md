@@ -22,7 +22,7 @@
 ### 🛠 Tech Stack
 
 - *Languages:*  C++, JavaScript, HTML5, CSS3 ,React
-- *Tools & Platforms:* VS Code, Git, GitHub, Linux ,netlify
+- *Tools & Platforms:* VS Code, Git, GitHub, Linux 
 
 ### 🧰 Tools & Technologies
 
